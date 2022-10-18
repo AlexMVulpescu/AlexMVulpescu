@@ -33,12 +33,5 @@ Este es mi **repositorio personal**, aqui subire los trabajos de clase y mis pro
             <img loading="lazy" src="https://i.imgur.com/U4Uiaef.png" height="50">
         </a> &nbsp;&nbsp;
         <a href="https://www.linkedin.com/in/alexandru-marian-vulpescu-67b944212/" target="_blank">
-            <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" height="50">
-        </a> &nbsp;&nbsp;
-        <a href="https://discordapp.com/users/joseluisgs#3560" target="_blank">
-            <img loading="lazy" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" height="50">
-        </a> &nbsp;&nbsp;
-        <a href="https://g.dev/joseluisgs" target="_blank">
-            <img loading="lazy" src="https://googlediscovery.com/wp-content/uploads/google-developers.png" height="50">
-        </a>    
+            <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" height="50">   
     </p>
