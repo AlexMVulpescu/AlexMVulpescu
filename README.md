@@ -1,7 +1,8 @@
 ### Hello there 👋
 
 <p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/AlexMVulpescu?color=success&label=S%C3%ADgueme%20guapo%2Fa%21&style=social">
+  <img alt="alexmvulpescu-followers
+ " src="https://img.shields.io/github/followers/AlexMVulpescu?color=success&label=S%C3%ADgueme%20guapo%2Fa%21&style=social">
 </p>
 
 <!--
