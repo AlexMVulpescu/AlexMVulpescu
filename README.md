@@ -11,7 +11,7 @@
 
 Me llamo Alex 🙃, vivo en Leganes, Madrid 🌆, soy un estudiante apasionado por la informática 💻, especialmente los videojuegos 🎮. Tengo el título de Técnico en Sistemas MicroInformáticos y Redes, y actualmente estoy cursando el grado superior de Desarrollo de Aplicaciones Multiplataforma en IES Luis Vives 🏫.
 
-Lo que mas me apasiona es la informatica 💻, los videojuegos 🎮 y juegos de mesa 🎲, la gastronomia 🍴, y las peliculas/series/animes 🎥.
+Lo que mas me apasiona es la informatica 💻, los videojuegos 🎮 y juegos de mesa 🎲, la musica 🎶🎧, la gastronomia 🍴, y las peliculas/series/animes 🎥.
 
 Este es mi **repositorio personal**, aqui subire los trabajos de clase y mis proyectos personales.
 
