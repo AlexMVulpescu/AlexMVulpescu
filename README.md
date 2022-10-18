@@ -1,7 +1,8 @@
-### Hello there 👋
+## Hello there 👋
 
   <p align="center">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/AlexMVulpescu?color=success&label=Followers&style=social">
+    <img alt="AlexMVulpescu-github"src="https://komarev.com/ghpvc/?username=AlexMVulpescu&label=Profile+Views">
+    <img alt="AlexMVulpescu-github" src="https://img.shields.io/github/followers/AlexMVulpescu?color=success&label=Followers&style=social">
   </p>
 
 <!--
