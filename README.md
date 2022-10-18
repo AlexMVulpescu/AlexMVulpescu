@@ -21,10 +21,7 @@ Este es mi **repositorio personal**, aqui subire los trabajos de clase y mis pro
     <img alt="AlexMVulpescu-github" src="https://media.giphy.com/media/3NtY188QaxDdC/giphy.gif">
     </p>
     
-  <h2 align="center">📫 Contacto</h2>
-    <p align="center">
-      Cualquier cosa que necesites házmelo saber por si puedo ayudarte 💬.
-    </p>
+  <h2 align="center">📞 Contactos 📞</h2>
     <p align="center">
         <a href="https://github.com/AlexMVulpescu" target="_blank">
             <img loading="lazy" src="https://distreau.com/github.svg" height="50">
@@ -35,3 +32,21 @@ Este es mi **repositorio personal**, aqui subire los trabajos de clase y mis pro
         <a href="https://www.linkedin.com/in/alexandru-marian-vulpescu-67b944212/" target="_blank">
             <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" height="50">   
     </p>
+    
+  <h2 align="center">█▒▒▒▒▒▒▒▒▒ 10% Aprendiendo <img src="emoji-carga.png" width=2% /> </h2>
+  <p align="center">
+  <img loading="lazy" src="https://www.jetbrains.com/academy/img/icon-kotlin-new.svg" 
+  height="55">
+  <img loading="lazy" src="https://distreau.com/github.svg" 
+  height="55">
+  <img loading="lazy" src="https://materiageek.com/wp-content/uploads/2020/10/GitKraken-7.4.0-Descargar-gratis.png"
+  height="55">
+  <img loading="lazy" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" 
+  height="55">
+  <img loading="lazy" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" 
+  height="55">
+    <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" 
+  height="55">
+  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" 
+  height="55">
+
