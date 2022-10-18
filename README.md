@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+
+<p align="center">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/AlexMVulpescu?color=success&label=S%C3%ADgueme%20guapo%2Fa%21&style=social">
+</p>
 
 <!--
 **AlexMVulpescu/AlexMVulpescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
