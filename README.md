@@ -7,7 +7,7 @@
     <img alt="AlexMVulpescu-github" src="https://img.shields.io/github/followers/AlexMVulpescu?color=success&label=Followers&style=social">
   </p>
 
-  # <img src="octocat.png" width=35% align=right /> Hello there 👋 
+  # <img src="octocat.png" width=26% align=right /> Hello there 👋 
 
 Me llamo Alex 🙃, vivo en Leganes, Madrid 🌆, soy un estudiante apasionado por la informática 💻, especialmente los videojuegos 🎮. Tengo el título de Técnico en Sistemas MicroInformáticos y Redes, y actualmente estoy cursando el grado superior de Desarrollo de Aplicaciones Multiplataforma en IES Luis Vives 🏫.
 
