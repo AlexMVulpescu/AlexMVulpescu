@@ -11,7 +11,7 @@
 
 Me llamo Alex 🙃, vivo en Leganes, Madrid 🌆, soy un estudiante apasionado por la informática 💻, especialmente los videojuegos 🎮. Tengo el título de Técnico en Sistemas MicroInformáticos y Redes, y actualmente estoy cursando el grado superior de Desarrollo de Aplicaciones Multiplataforma en IES Luis Vives 🏫.
 
-Lo que mas me apasiona es la informatica 💻, los videojuegos 🎮 y juegos de mesa 🎲, la musica 🎶🎧, la gastronomia 🍴, y las peliculas/series/animes 🎥.
+Lo que mas me apasiona es la informatica 💻, los videojuegos 🎮 y juegos de mesa 🎲, la musica 🎶🎧, la gastronomia 🍴, y las peliculas/series/animes 🎥. Me considero introvertido 😶, pero si pillo confianza me "suelto" con facilidad 😁. Soy gracioso 🤣, me gusta salir, y aprender cosas nuevas siempre que tenga la oportunidad 🚶. Tengo planteado para un futuro cercano (a poder ser 🙃), "crear un branch" en mi vida 😜, y probar el mundo del streaming.
 
 Este es mi **repositorio personal**, aqui subire los trabajos de clase y mis proyectos personales.
 
@@ -33,7 +33,7 @@ Este es mi **repositorio personal**, aqui subire los trabajos de clase y mis pro
             <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" height="50">   
     </p>
     
-  <h2 align="center">█▒▒▒▒▒▒▒▒▒ 10% Aprendiendo <img src="emoji-carga.png" width=2% /> </h2>
+  <h2 align="center">█▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 3% Aprendiendo <img src="emoji-carga.png" width=2% /> </h2>
   <p align="center">
   <img loading="lazy" src="https://www.jetbrains.com/academy/img/icon-kotlin-new.svg" 
   height="55">
