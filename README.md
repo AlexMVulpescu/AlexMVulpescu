@@ -1,5 +1,5 @@
   <p align="center">
-    <img alt="AlexMVulpescu-github" src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif">
+    <img alt="AlexMVulpescu-github" width=32% src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif">
     </p>
 
   <p align="center">
@@ -18,7 +18,7 @@ Este es mi **repositorio personal**, aqui subire los trabajos de clase a lo larg
 > «Un programador es un dispositivo que convierte café en código.» – Israel Santander, gran persona mejor programador
 
   <p align="center">
-    <img alt="AlexMVulpescu-github" src="https://media.giphy.com/media/3NtY188QaxDdC/giphy.gif">
+    <img alt="AlexMVulpescu-github" width=25% src="https://media.giphy.com/media/iuhDCV0gok4ToFh3Qp/giphy.gif">
     </p>
     
   <h2 align="center">📞 Contactos 📞</h2>
@@ -50,3 +50,6 @@ Este es mi **repositorio personal**, aqui subire los trabajos de clase a lo larg
   <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" 
   height="55">
 
+  <p align="center">
+    <img alt="AlexMVulpescu-github" width=35% src="https://media.giphy.com/media/3NtY188QaxDdC/giphy.gif">
+    </p>
